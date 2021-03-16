@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" href="https://use.typekit.net/npf0str.css">
+<link rel="stylesheet" href="https://use.typekit.net/npf0str.css">
+<link rel="stylesheet" href="https://use.typekit.net/npf0str.css">
+
+<!-- TemplateBeginEditable name="head" -->
+	
+<style type="text/css">
+	
+</style>
+<link href="../styles.css" rel="stylesheet" type="text/css">
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+<header></header>
+<nav>
+	<ul>
+		<li><a href="about.html">About</a></li>
+		<li><a href="blog.html">Blog</a></li>
+		<li><a href="gallery.html">Gallery</a></li>
+		<li><a href="contact.html">Contact</a></li>
+	</ul>
+</nav>
+<!--Begin Floated Elements-->
+<aside><h3>I'm a full-time student, a soon-to-be high school graduate, a proud aunt, and a web developer.</h3>
+	<h3>Join me as I examine life through all of my various lenses.</h3>
+	<h3>By Tiffany Francis</h3>
+</aside>
+<!-- TemplateBeginEditable name="main-content" -->
+<main>
+  <h1>Image Gallery</h1>
+	<div class="column">
+      <img src="../planet.jpg" width="250" height="246" alt=""/>
+	  <img src="../planet.jpg" width="250" height="246" alt=""/>
+	  <img src="../planet.jpg" width="250" height="246" alt=""/>
+	</div>
+	<div class="column">
+      <img src="../planet.jpg" width="250" height="246" alt=""/>
+	  <img src="../planet.jpg" width="250" height="246" alt=""/>
+	  <img src="../planet.jpg" width="250" height="246" alt=""/>
+	</div>
+	<div class="column">
+      <img src="../planet.jpg" width="250" height="246" alt=""/>
+	  <img src="../planet.jpg" width="250" height="246" alt=""/>
+	  <img src="../planet.jpg" width="250" height="246" alt=""/>
+	</div>
+	
+</main>
+<!-- TemplateEndEditable --><!--End Floated Elements-->
+<footer>&nbsp;</footer>
+</div>
+</body>
+</html>

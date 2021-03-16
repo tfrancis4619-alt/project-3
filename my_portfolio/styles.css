@@ -1,0 +1,125 @@
+body {
+	background-image: url("space.jpg");
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 18px;
+}
+
+#container {
+	width: 768px;
+	height: auto;
+	background-color: #FFFFFF;
+	margin: auto;
+}
+
+header {
+	width: 768px;
+	height: 250px;
+	background-image: url('header.jpg');
+}
+
+main {
+	width: 598px;
+	height: 1500px;
+	float: left;
+	padding: 20px;
+}
+
+h1 {
+    color: #02000F;
+	font-family: goodlife-brush,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+	font-size: 24pt;
+}
+
+h3 {
+	font-size: 12pt;
+	padding: 10px;
+}
+
+footer {
+	width: 768px;
+	height: 50px;
+	clear: both;
+	background-color: #646464;
+}
+
+aside {
+	background-color: #646464;
+	width: 130px;
+	height: 1000px;
+	float: left;
+}
+
+img {
+	float: right;
+	padding: 10px;
+	padding-right: 10px;
+}
+
+.floatLeft {
+	float: left;
+}
+
+nav {
+	width: 768px;
+	height: 50px;
+}
+
+#container nav li {
+	display: block;
+	float: left;
+	width: 60px;
+	margin-right: 60px;
+	font-family: goodlife-script, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+	font-size: 19pt
+	
+}
+
+#container nav ul {
+	margin: auto;
+	width: 500px;
+}
+
+nav a:link {
+	color: #03002F;
+	text-decoration: none;
+	padding: 10px;
+}
+nav a:visited {
+	text-decoration: none;
+	color: #0F0F0F;
+}
+nav a:hover {
+	text-decoration: none;
+	color: #FFFFFF;
+	background-color: #0F0F0F;
+	padding: 10px;
+	border-radius: 20px;
+}
+
+nav a:active {
+	text-decoration: none;
+	color: #0F0F0F;
+}
+
+.submit_btn {
+	width: 185px;
+	height: 30px;
+	background-color: #03002F;
+	border-radius: 10px;
+	color: white;
+	font-size: 16px;
+	h-shadow: 6px;
+	blur: 35px;
+	spread: 1px;
+	v-shadow: 6px;
+}
+.column {
+	width: 250px;
+	height: 750px;
+	border: 10px solid #FF00AE;
+	float: left;
+}
